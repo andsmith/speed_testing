@@ -1,0 +1,6 @@
+[submodule "loop_timing"]
+	path = cv2_vs_pygame/loop_timing
+	url = git@github.com:andsmith/loop_timing
+[submodule "gui_utils"]
+	path = cv2_vs_pygame/gui_utils
+	url = git@github.com:andsmith/gui_utils
